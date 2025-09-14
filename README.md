@@ -1,6 +1,6 @@
 # Terraform AWS EC2 Instance
 
-A simple project that uses **Terraform** to launch an **Amazon EC2 instance** on AWS.  
+A simple project that uses **Terraform** to launch an **Amazon EC2 instance** on AWS.  and in return it also gives the public ip address of instance
 
 ---
 
